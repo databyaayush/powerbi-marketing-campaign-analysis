@@ -81,7 +81,7 @@ The analysis highlights the importance of:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](final dashboard.PNG)
+![Dashboard]([final dashboard.PNG](https://github.com/databyaayush/powerbi-marketing-campaign-analysis/blob/main/final%20dashboard.PNG))
 
 ---
 
