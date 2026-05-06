@@ -81,7 +81,7 @@ The analysis highlights the importance of:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](final dashboard,png)
 
 ---
 
